@@ -1,0 +1,21 @@
+{
+  "name": "pink-harmony",
+  "displayName": "Pink Harmony",
+  "description": "This is the first theme I've created for visual, and it aims to use a palette centered around the color pink.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Pink_Harmony",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Pink_Harmony-color-theme.json"
+      }
+    ]
+  }
+}
